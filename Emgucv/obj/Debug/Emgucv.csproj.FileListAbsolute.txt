@@ -1,0 +1,11 @@
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgucv.exe.config
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgucv.exe
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgucv.pdb
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgu.CV.UI.dll
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgu.CV.World.dll
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\ZedGraph.dll
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgu.CV.UI.xml
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\bin\Debug\Emgu.CV.World.xml
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\obj\Debug\Emgucv.exe
+c:\users\ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\obj\Debug\Emgucv.pdb
+C:\Users\Ken\documents\visual studio 2015\Projects\Emgucv\Emgucv\obj\Debug\Emgucv.csprojResolveAssemblyReference.cache
